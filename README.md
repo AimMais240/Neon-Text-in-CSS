@@ -1,2 +1,2 @@
 # Neon-Text-in-CSS
-Hey ive done an Neon text in Css and Html.
+Cool looking Neon text in Html and Css
